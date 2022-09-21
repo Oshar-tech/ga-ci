@@ -2,7 +2,6 @@ name: Binary search - Formatting (black)
 
 on:
   push:
-    branches:
     
 jobs:
   py-black:
